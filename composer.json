@@ -14,7 +14,7 @@
   },
   "extra": {
     "map": [
-        ["app/locale/", "app/locale/pl_PL/"]
+        ["app/locale/*", "app/locale/pl_PL/"]
     ]
   }
 }
